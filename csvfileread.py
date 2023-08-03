@@ -152,7 +152,6 @@ plt.hist(lstatforsigpersigtypenumber)
 plt.xlabel('signature count per sigtype')
 plt.ylabel('frq count')
 plt.title("Histogram of Signatures per Sigtype")
-
 plt.savefig("/home/zwen/Desktop/stat/"+"lstatforsigpersigtypenumber.pdf") 
  
  
@@ -1570,7 +1569,7 @@ print(classification_report(y_test,y_pred))
 
 '''analysis on data set rd_m4'''
 
-'''logistic regression on rd_m3'''
+'''logistic regression on rd_m4'''
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.cross_validation import train_test_split
