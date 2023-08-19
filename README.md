@@ -9,7 +9,7 @@ Environment: Python 2.7
 code: in cluster_anormaly_detection.ipynb
 
 data step:
-preprocessing data to generate 11 data sets for later learnin
+preprocessing data to generate 11 data sets for later learning
 
 
 Two ML methods were tried
